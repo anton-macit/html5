@@ -1,0 +1,11 @@
+.wrapper {
+    display: block;
+    text-align: center;
+}
+
+.main {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+}
